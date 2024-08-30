@@ -1,6 +1,6 @@
 openapi: 3.0.3
 info:
-  title: STD23098 - TD2
+  title: STD23098 - TD3
   version: '1.0.2'
 servers:
   - url: https://localhost.std23098.com
